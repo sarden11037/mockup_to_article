@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+new skills that I have learned involved using a new text editor that I have not previously used, brackets. 
+
+Most of the html used in this project was fairly simply and straight forward and did not really involve having to looking anything up. 
+
+Difficult aspect of this project would be using a text editor I have not previously used. 
+
+Problem solving strategies for this project involved separating the big blocks of text from top to bottom so that I can read the document easily. 
